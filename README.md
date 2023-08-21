@@ -9,13 +9,13 @@ Solving the Travelling Salesman Problem in Python
 * __Greedy__
 * __Brute Force__
 
-When the solution is found it is plotted using Matplotlib and for some algorithms you can see the intermediate results  
+When the solution is found it is plotted using Matplotlib and for some algorithms, you can see the intermediate results  
 
 ### Example visualizations
 The following visualizations are all applied on the [EIL51 dataset](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/eil101.tsp)
 available through the [TSP online library](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsplib.html)
 #### Genetic Algorithm
-![Genetic Algorithm](doc/images/genetic51_2.gif "Genetic Algorithm")
+![Genetic Algorithm]([doc/images/genetic51_2.gif](https://github.com/mrdetective007/TSP_Analyser/raw/main/doc/images/genetic51_2.gif) "Genetic Algorithm")
 #### Divide and Conquer
 ![Divide and Conquer](doc/images/divide_and_conquer_51.gif "Divide and Conquer")
 #### Greedy
